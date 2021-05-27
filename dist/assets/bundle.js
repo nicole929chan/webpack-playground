@@ -6,3 +6,4 @@ var greet = function greet(name) {
 
 greet('mario');
 greet('luigi');
+greet('bar');
