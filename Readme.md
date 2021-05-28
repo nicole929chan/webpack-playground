@@ -6,3 +6,4 @@
 # __dirname, node property means the root folder name
 # const path = require('path'), node module from library
 # node_modules/.bin/webpack
+# modules, export several js files to index.js which uses import syntax
