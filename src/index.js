@@ -4,3 +4,5 @@ import users, { getPremiumUsers } from './data'
 const premiumUsers = getPremiumUsers(users);
 
 console.log(users, premiumUsers);
+
+console.log('test');
