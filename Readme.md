@@ -7,3 +7,4 @@
 # const path = require('path'), node module from library
 # node_modules/.bin/webpack
 # modules, export several js files to index.js which uses import syntax
+# a module can only have one export default value, but still can have other exports

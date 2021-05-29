@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("dom file");const e=document.querySelector("body");console.log("index file"),(o=>{const l=document.createElement("h1");l.textContent="hello world",e.appendChild(l)})(),e.style.background="peachpuff",console.log("mario@example.com")})();
+(()=>{"use strict";console.log("dom file"),document.querySelector("body");const e=[{name:"mario",premium:!0},{name:"luigi",premium:!1}],o=e.filter((e=>e.premium));console.log(e,o)})();
