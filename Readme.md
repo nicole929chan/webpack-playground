@@ -12,3 +12,4 @@
 # compile all the js files into a virtual one
 # running in memory which means it doesn't need live server anymore
 # it doesn't generate a physical bundle file 
+# to remove babel, webpack runs for development and production mode
