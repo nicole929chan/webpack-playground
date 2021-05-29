@@ -13,3 +13,5 @@
 # running in memory which means it doesn't need live server anymore
 # it doesn't generate a physical bundle file 
 # to remove babel, webpack runs for development and production mode
+# webpack is for bundling js files, otherwise, babel is for translating js files to fit all browsers
+# webpack and babel together, using babel-loader
